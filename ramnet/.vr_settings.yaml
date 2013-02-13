@@ -7,12 +7,13 @@ backup_path: C:/Users/abernhard
 tab_spaces: 2
 run_command_line: ruby main.rb
 open_files:
-- C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/Untitled
+- C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/bin/MyClass.rb
+- C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/main.rb
 open_folders:
 - C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet
 - C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/bin
 - C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/bin/glade
-current_file: C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/Untitled
+current_file: C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/main.rb
 glade_path: glade-3
 font_name: Monospace 10
 rdoc_command_line: rdoc -x README
