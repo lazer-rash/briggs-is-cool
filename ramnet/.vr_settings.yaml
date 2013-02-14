@@ -1,7 +1,7 @@
 --- !ruby/object:VR_ENV
 browser: firefox
 width: 800
-height: 600
+height: 730
 panel_pos: 360
 backup_path: C:/Users/abernhard
 tab_spaces: 2
@@ -13,7 +13,7 @@ open_folders:
 - C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet
 - C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/bin
 - C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/bin/glade
-current_file: C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/main.rb
+current_file: C:/Users/abernhard/Documents/GitHub/briggs-is-cool/ramnet/bin/MyClass.rb
 glade_path: glade-3
 font_name: Monospace 10
 rdoc_command_line: rdoc -x README
