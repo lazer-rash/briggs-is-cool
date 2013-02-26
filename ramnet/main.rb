@@ -1,6 +1,7 @@
 #!/usr/bin/ruby
 
 require 'vrlib'
+require 'openssl'
 
 #make program output in real time so errors visible in VR.
 STDOUT.sync = true

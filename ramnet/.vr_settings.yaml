@@ -1,8 +1,8 @@
 --- !ruby/object:VR_ENV
 browser: firefox
-width: 1366
-height: 746
-panel_pos: 360
+width: 800
+height: 730
+panel_pos: 411
 backup_path: C:/Users/abernhard
 tab_spaces: 2
 run_command_line: ruby main.rb
