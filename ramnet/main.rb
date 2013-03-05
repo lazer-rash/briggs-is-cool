@@ -2,6 +2,10 @@
 
 require 'vrlib'
 require 'openssl'
+require 'rubygems'
+require 'gtk2'
+require 'require_all'
+require 'vrlib'
 
 #make program output in real time so errors visible in VR.
 STDOUT.sync = true
